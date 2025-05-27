@@ -1,5 +1,8 @@
+
 # 📰 MediaPulse Dashboard
 
+## NOTE : IT HARDLY TAKES 1-2 MINUTES TO EXTRACT THE NEWS WORLDWIDE : )
+ 
 A beautiful, fully responsive AI-powered news analysis dashboard that allows users to:
 - Enter any **topic or keyword** (e.g. Apple, SpaceTech, Finance Trends)
 - Fetch **recent news headlines**
@@ -77,9 +80,10 @@ PORT=5000
 
 Run the command : npm start 
 
-# Deployment 
+# Deployment Platforms Used
 
 For Frontend :  Vercel  
+For Backend  : Render
 
 
 
