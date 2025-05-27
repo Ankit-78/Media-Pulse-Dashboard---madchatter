@@ -75,8 +75,11 @@ Complete Structure of .env file
 NEWS_API_KEY= YOUR_API_KEY
 PORT=5000 
 
-Run the command : npm start
+Run the command : npm start 
 
+# Deployment 
+
+For Frontend :  Vercel  
 
 
 
