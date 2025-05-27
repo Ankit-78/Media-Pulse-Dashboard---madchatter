@@ -56,16 +56,17 @@ A beautiful, fully responsive AI-powered news analysis dashboard that allows use
 
 # 1. Clone the Repository
 
-Frontend Part :
 
-https://github.com/Ankit-78/Media-Pulse-Dashboard---madchatter.git
+git clone https://github.com/Ankit-78/Media-Pulse-Dashboard---madchatter.git
+
+To run the Frontend Part : 
 
 cd frontend 
 
 Run the command : npm run dev 
 
 
-Backend Part : 
+To run the Backend Part : 
 
 cd backend
 
