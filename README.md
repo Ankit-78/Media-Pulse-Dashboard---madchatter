@@ -80,10 +80,13 @@ PORT=5000
 
 Run the command : npm start 
 
-# Deployment Platforms Used
+# Deployment Platforms Used for Hosting
 
-For Frontend :  Vercel  
-For Backend  : Render
+For Frontend :  Vercel   (The Link is in the About section (top right corner)
+
+For Backend  : Render 
+
+
 
 
 
